@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UP Police</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="no_internet_title">No Internet Connection</string>
+    <string name="no_internet_message">Please check your network settings and try again.</string>
+    <string name="no_internet_icon">No internet connection icon</string>
+    <string name="retry">Retry</string>
+    <string name="downloading">Downloading file…</string>
+    <string name="download_started">Download started</string>
+    <string name="download_failed">Download failed</string>
+    <string name="webview_description">UP Police website content</string>
+</resources>
